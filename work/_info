@@ -1,0 +1,644 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Atif/OneDrive/Desktop/Lab7
+T_opt
+!s110 1682651161
+VMC`kb`^Vdo27SI37`nm:O2
+04 9 4 work testbench fast 0
+=1-0811966ab1e0-644b3818-3e2-338c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+R0
+vadder
+Z2 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z3 !s110 1682651150
+!i10b 1
+!s100 C3WZIk13THeF69zz^ncgb0
+IA^8SiDajNLC@7g1lFN1mA1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+Z5 dC:/Users/Atif/OneDrive/Desktop/cycle
+w1680195420
+8C:\Users\Atif\OneDrive\Desktop\cycle\adder.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\adder.sv
+L0 1
+Z6 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z7 !s108 1682651150.000000
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\adder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\adder.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+valu
+R2
+R3
+!i10b 1
+!s100 lS6]=0;B3[fGnc4`kIb8P2
+I6ITY46Wm@lLdYl<Ca4Hn_3
+R4
+!s105 alu_sv_unit
+S1
+R5
+w1680194644
+8C:\Users\Atif\OneDrive\Desktop\cycle\alu.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\alu.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\alu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\alu.sv|
+!i113 0
+R8
+R1
+valudec
+R2
+R3
+!i10b 1
+!s100 DOT[[PlTg?i3ck27M2F8Y1
+In?GGC_VQK=?I4V8Z0D=ca0
+R4
+!s105 aludec_sv_unit
+S1
+R5
+w1680226740
+8C:\Users\Atif\OneDrive\Desktop\cycle\aludec.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\aludec.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\aludec.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\aludec.sv|
+!i113 0
+R8
+R1
+vbuad
+R2
+Z9 !s110 1682665293
+!i10b 1
+!s100 5V:@89aL_T`omOU1MS5[l0
+I0[<gFKaYXYPn;3??fN7XM2
+R4
+!s105 baudcounter_sv_unit
+S1
+R5
+w1663615696
+8C:/Users/Atif/Downloads/ca lab 2/baudcounter.sv
+FC:/Users/Atif/Downloads/ca lab 2/baudcounter.sv
+L0 1
+R6
+r1
+!s85 0
+31
+Z10 !s108 1682665293.000000
+!s107 C:/Users/Atif/Downloads/ca lab 2/baudcounter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/baudcounter.sv|
+!i113 0
+R8
+R1
+vcomp
+R2
+R9
+!i10b 1
+!s100 BATbN;YMl9@`D56Ua1Dck1
+IPU6]@h<Z]hdeP`l?=a<1:3
+R4
+!s105 comparator_sv_unit
+S1
+R5
+w1663678028
+8C:/Users/Atif/Downloads/ca lab 2/comparator.sv
+FC:/Users/Atif/Downloads/ca lab 2/comparator.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Atif/Downloads/ca lab 2/comparator.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/comparator.sv|
+!i113 0
+R8
+R1
+vcontroller
+R2
+R9
+!i10b 1
+!s100 m4L=SK2Yh=;bb1oI:L<D>3
+IC`J]TjgX>UPQgM7giX[gP0
+R4
+!s105 controller_sv_unit
+S1
+R5
+w1663678462
+8C:/Users/Atif/Downloads/ca lab 2/controller.sv
+FC:/Users/Atif/Downloads/ca lab 2/controller.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Atif/Downloads/ca lab 2/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/controller.sv|
+!i113 0
+R8
+R1
+vcounter
+R2
+R9
+!i10b 1
+!s100 4gRdn<W?h9T0ZB9W4@>lI2
+I=C7g;h>m=:RN7Q?V2hEnQ3
+R4
+!s105 counter_sv_unit
+S1
+R5
+w1663652526
+8C:/Users/Atif/Downloads/ca lab 2/counter.sv
+FC:/Users/Atif/Downloads/ca lab 2/counter.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Atif/Downloads/ca lab 2/counter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/counter.sv|
+!i113 0
+R8
+R1
+vdatapath
+R2
+R9
+!i10b 1
+!s100 lEg;<0[V<dJlZ6<497hOM2
+I<hf6]oE<=g_kU:Ul`=3Pz0
+R4
+!s105 datapath_sv_unit
+S1
+R5
+w1663678968
+8C:/Users/Atif/Downloads/ca lab 2/datapath.sv
+FC:/Users/Atif/Downloads/ca lab 2/datapath.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Atif/Downloads/ca lab 2/datapath.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/datapath.sv|
+!i113 0
+R8
+R1
+vdmem
+R2
+Z11 !s110 1682651151
+!i10b 1
+!s100 =5D=:2`5RzOI?ACoOOzc81
+IZZaneMa?fXmH6U[RL<AaY1
+R4
+!s105 dmem_sv_unit
+S1
+R5
+w1680195398
+8C:\Users\Atif\OneDrive\Desktop\cycle\dmem.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\dmem.sv
+L0 1
+R6
+r1
+!s85 0
+31
+Z12 !s108 1682651151.000000
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\dmem.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\dmem.sv|
+!i113 0
+R8
+R1
+vextend
+R2
+R11
+!i10b 1
+!s100 _WI34bD?G<U^6iJZVhiJ43
+IZQLHoln02Wb_9c]o0AdhW1
+R4
+!s105 extend_sv_unit
+S1
+R5
+w1680195510
+8C:\Users\Atif\OneDrive\Desktop\cycle\extend.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\extend.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\extend.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\extend.sv|
+!i113 0
+R8
+R1
+vflopr
+R2
+R11
+!i10b 1
+!s100 0E:FijL8UIZSU^NJQ7Azf2
+IPh^Y@FII5VMF0]dRCKL_D1
+R4
+!s105 flopr_sv_unit
+S1
+R5
+w1680195612
+8C:\Users\Atif\OneDrive\Desktop\cycle\flopr.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\flopr.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\flopr.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\flopr.sv|
+!i113 0
+R8
+R1
+vimem
+R2
+R11
+!i10b 1
+!s100 2Sh1^d3Uf8;O>9F_DHR5=1
+IB_EeUZ_:`382b:R;n1LHY2
+R4
+!s105 imem_sv_unit
+S1
+R5
+w1680197028
+8C:\Users\Atif\OneDrive\Desktop\cycle\imem.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\imem.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\imem.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\imem.sv|
+!i113 0
+R8
+R1
+vmaindec
+R2
+R11
+!i10b 1
+!s100 H>9XB[jHc^^>7_QlhHNzX3
+Ia44@>12::liE>Z`Vzm2jO1
+R4
+!s105 maindec_sv_unit
+S1
+R5
+w1680226768
+8C:/Users/Atif/OneDrive/Desktop/cycle/maindec.sv
+FC:/Users/Atif/OneDrive/Desktop/cycle/maindec.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Atif/OneDrive/Desktop/cycle/maindec.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/OneDrive/Desktop/cycle/maindec.sv|
+!i113 0
+R8
+R1
+vmux
+R2
+Z13 !s110 1682665294
+!i10b 1
+!s100 OYzn[Mc4:nh8n`lCHh>[I3
+IBI66_@`AWNdb6l8z926Ff3
+R4
+!s105 mux_sv_unit
+S1
+R5
+w1663678632
+8C:/Users/Atif/Downloads/ca lab 2/mux.sv
+FC:/Users/Atif/Downloads/ca lab 2/mux.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Atif/Downloads/ca lab 2/mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/mux.sv|
+!i113 0
+R8
+R1
+vmux2
+R2
+Z14 !s110 1682651152
+!i10b 1
+!s100 gn;o?[CgmN@Z]Sj^I?]B30
+IZVEIYA?]X`YiJdm6PXnnK3
+R4
+!s105 mux2_sv_unit
+S1
+R5
+w1680194736
+8C:\Users\Atif\OneDrive\Desktop\cycle\mux2.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\mux2.sv
+L0 1
+R6
+r1
+!s85 0
+31
+Z15 !s108 1682651152.000000
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\mux2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\mux2.sv|
+!i113 0
+R8
+R1
+vmux4
+R2
+R14
+!i10b 1
+!s100 Wc_kNS^I=U<gAYcRI@dnZ2
+InjDUzkh:1?H_B[J1`dTW83
+R4
+!s105 mux4_sv_unit
+S1
+R5
+w1680196174
+8C:/Users/Atif/OneDrive/Desktop/cycle/mux4.sv
+FC:/Users/Atif/OneDrive/Desktop/cycle/mux4.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/Atif/OneDrive/Desktop/cycle/mux4.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/OneDrive/Desktop/cycle/mux4.sv|
+!i113 0
+R8
+R1
+vregfile
+R2
+R14
+!i10b 1
+!s100 DSzj[WJaG8FV2JOTKA3b^2
+IN0@of3]g^L_IBNn`gPghV3
+R4
+!s105 reg_file_sv_unit
+S1
+R5
+w1680196846
+8C:/Users/Atif/OneDrive/Desktop/cycle/reg_file.sv
+FC:/Users/Atif/OneDrive/Desktop/cycle/reg_file.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/Atif/OneDrive/Desktop/cycle/reg_file.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/OneDrive/Desktop/cycle/reg_file.sv|
+!i113 0
+R8
+R1
+vriscvsingle
+R2
+R14
+!i10b 1
+!s100 fkj<dMUjSRQ6^ObGz]]Ya2
+IJGI7in?5a_IOMJ^AZZ^i52
+R4
+!s105 riscvsingle_sv_unit
+S1
+R5
+w1680227066
+8C:\Users\Atif\OneDrive\Desktop\cycle\riscvsingle.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\riscvsingle.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R15
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\riscvsingle.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\riscvsingle.sv|
+!i113 0
+R8
+R1
+vshifter
+R2
+R13
+!i10b 1
+!s100 48;[3;kkz]IaUa<5RK;Bg0
+I>SBCdGkJ>FJ@5T7Q[aK332
+R4
+!s105 shiftreg_sv_unit
+S1
+R5
+w1663652104
+8C:/Users/Atif/Downloads/ca lab 2/shiftreg.sv
+FC:/Users/Atif/Downloads/ca lab 2/shiftreg.sv
+L0 1
+R6
+r1
+!s85 0
+31
+Z16 !s108 1682665294.000000
+!s107 C:/Users/Atif/Downloads/ca lab 2/shiftreg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/shiftreg.sv|
+!i113 0
+R8
+R1
+vtb_baudcounter
+R2
+R13
+!i10b 1
+!s100 PK@0:RQz?7UD`>ZNFMblF0
+Idd>Y7LYF:Pc`i4cDSczVU1
+R4
+!s105 tb_baudcounter_sv_unit
+S1
+R5
+w1663615462
+8C:/Users/Atif/Downloads/ca lab 2/tb_baudcounter.sv
+FC:/Users/Atif/Downloads/ca lab 2/tb_baudcounter.sv
+L0 2
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Atif/Downloads/ca lab 2/tb_baudcounter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/tb_baudcounter.sv|
+!i113 0
+R8
+R1
+vtb_counter
+R2
+R13
+!i10b 1
+!s100 =ALJFaaIILYVUC1h>La4z2
+I?d<Ya`Hkf99cFL=7BHK>H0
+R4
+!s105 tb_counter_sv_unit
+S1
+R5
+w1663655262
+8C:/Users/Atif/Downloads/ca lab 2/tb_counter.sv
+FC:/Users/Atif/Downloads/ca lab 2/tb_counter.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Atif/Downloads/ca lab 2/tb_counter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/tb_counter.sv|
+!i113 0
+R8
+R1
+vtb_mux
+R2
+!s110 1682666075
+!i10b 1
+!s100 ?kc>V?m;E5nmM5l^=^ldC0
+IbCCzkEzfWIadXbWilmS6M3
+R4
+!s105 tb_mux_sv_unit
+S1
+R5
+w1682666068
+8C:\Users\Atif\Downloads\ca lab 2\tb_mux.sv
+FC:\Users\Atif\Downloads\ca lab 2\tb_mux.sv
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1682666075.000000
+!s107 C:\Users\Atif\Downloads\ca lab 2\tb_mux.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\Downloads\ca lab 2\tb_mux.sv|
+!i113 0
+R8
+R1
+vtb_uart_tx
+R2
+Z17 !s110 1682665295
+!i10b 1
+!s100 TZE:gai1C=@ncn:5kVoIn2
+IaMbM_g18o0CnKMnEzoRDP3
+R4
+!s105 tb_uart_tx_sv_unit
+S1
+R5
+w1663677890
+8C:/Users/Atif/Downloads/ca lab 2/tb_uart_tx.sv
+FC:/Users/Atif/Downloads/ca lab 2/tb_uart_tx.sv
+L0 1
+R6
+r1
+!s85 0
+31
+Z18 !s108 1682665295.000000
+!s107 C:/Users/Atif/Downloads/ca lab 2/tb_uart_tx.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/tb_uart_tx.sv|
+!i113 0
+R8
+R1
+vtestbench
+R2
+Z19 !s110 1682651153
+!i10b 1
+!s100 ^F[=b:`Faj3<Re<H9l5W]0
+IJ=K`I=7?3lj@<TCiVQnE;1
+R4
+!s105 testbench_sv_unit
+S1
+R5
+w1680147352
+8C:\Users\Atif\OneDrive\Desktop\cycle\testbench.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\testbench.sv
+L0 1
+R6
+r1
+!s85 0
+31
+Z20 !s108 1682651153.000000
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\testbench.sv|
+!i113 0
+R8
+R1
+vtop
+R2
+R19
+!i10b 1
+!s100 RK0GP1gMF1W_<Zgz9;@lj3
+I1K4o?C=lo<_]kl[J<Bz<E0
+R4
+!s105 top_sv_unit
+S1
+R5
+w1680195566
+8C:\Users\Atif\OneDrive\Desktop\cycle\top.sv
+FC:\Users\Atif\OneDrive\Desktop\cycle\top.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R20
+!s107 C:\Users\Atif\OneDrive\Desktop\cycle\top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:\Users\Atif\OneDrive\Desktop\cycle\top.sv|
+!i113 0
+R8
+R1
+vuart_tx
+R2
+R17
+!i10b 1
+!s100 ]C7Knhm^`9emXm0g@Pb0h3
+IBcI]2EMEo_ei44e]o^=Mz0
+R4
+!s105 uart_tx_sv_unit
+S1
+R5
+w1663657542
+8C:/Users/Atif/Downloads/ca lab 2/uart_tx.sv
+FC:/Users/Atif/Downloads/ca lab 2/uart_tx.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Atif/Downloads/ca lab 2/uart_tx.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Atif/Downloads/ca lab 2/uart_tx.sv|
+!i113 0
+R8
+R1

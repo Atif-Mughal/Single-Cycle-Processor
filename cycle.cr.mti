@@ -1,0 +1,211 @@
+C:/Users/Atif/OneDrive/Desktop/cycle/lab2_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/lab2_tb.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module lab2_tb
+
+Top level modules:
+	lab2_tb
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/bit_counter.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/bit_counter.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module bit_counter
+
+Top level modules:
+	bit_counter
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/test_bench.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/test_bench.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/riscv.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/riscv.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module riscvsingle
+
+Top level modules:
+	riscvsingle
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/i_mem.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/i_mem.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module i_mem
+
+Top level modules:
+	i_mem
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/single_cycle_processor.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/single_cycle_processor.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module single_cycle_processor
+
+Top level modules:
+	single_cycle_processor
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/instruction_mem.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/instruction_mem.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/data_mem.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/data_mem.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/adder_pc_plus_4.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/adder_pc_plus_4.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module adder_pc_plus_4
+
+Top level modules:
+	adder_pc_plus_4
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/lab2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/lab2.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module uart
+
+Top level modules:
+	uart
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/imm_extender.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/imm_extender.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module extend
+
+Top level modules:
+	extend
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/shift_register.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/shift_register.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module shift_register
+
+Top level modules:
+	shift_register
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/alu.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/alu.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/register_file.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/register_file.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/alu_controller.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/alu_controller.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module alu_controller
+
+Top level modules:
+	alu_controller
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/alu_dec.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/alu_dec.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/data_mem_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/data_mem_tb.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module data_mem_tb
+
+Top level modules:
+	data_mem_tb
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/instruction_mem_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/instruction_mem_tb.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module instr_tb
+
+Top level modules:
+	instr_tb
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/mux3.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/mux3.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/reg_file.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/reg_file.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/Data_Path.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/Data_Path.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/flopr_e.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/flopr_e.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module flopenr
+
+Top level modules:
+	flopenr
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/program_counter.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/program_counter.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module program_counter
+
+Top level modules:
+	program_counter
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/adder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/adder.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/main_dec.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/main_dec.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module maindec
+
+Top level modules:
+	maindec
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/top_level.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/top_level.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/flopr.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/flopr.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/controller.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/controller.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/mux_21.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/mux_21.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux_21
+
+Top level modules:
+	mux_21
+
+} {} {}} C:/Users/Atif/OneDrive/Desktop/cycle/mux2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/Atif/OneDrive/Desktop/cycle/mux2.sv
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}}
